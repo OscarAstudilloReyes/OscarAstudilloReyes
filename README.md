@@ -2,9 +2,9 @@
 #### Desarrollador de software en proceso...
 ![Desarrollador de software en proceso...](https://www.dlapiper.com/~/media/images/news/2018/programming_code_technology_computerwebsite_banner_432008923.jpg?h=257&la=es&w=759&hash=38BC28B40211EFCBFAEC1BE3711DCB8BD0500121)
 
-Estudiante en la Tecnología en Análisis y Desarrollo de Sistemas de Información
+Estudiante en la Tecnología en Análisis y Desarrollo de Sistemas de Información.
 
-Skills: JAVA/C#/PYTHON/ JS / HTML / CSS/GIT
+ -🤹🏻 HABILIDADES : JAVA / C# / PYTHON / JS / HTML / CSS/ GIT / SQL 
 
 - 💻 I’m currently working on en mi proyecto final 
 - 💡 I’m currently learning Frameworks como :LARABEL , BOOSTRAP , NODE.JS 
