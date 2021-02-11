@@ -1,7 +1,7 @@
 ###  Hola 👋 soy Oscar
 #### Desarrollador de software en proceso...
 ![Desarrollador de software en proceso...]
-<img src="https://crossmediadigital.com/wp-content/uploads/2020/09/developer-web-axel-castillo-1.gif"   width="600" height="300" />
+<img src="https://crossmediadigital.com/wp-content/uploads/2020/09/developer-web-axel-castillo-1.gif"   width="800" height="400" />
 
 
 Estudiante en la Tecnología en Análisis y Desarrollo de Sistemas de Información.
