@@ -1,7 +1,7 @@
 ###  Hola 👋 soy Oscar
 ![](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 #### Desarrollador de software en proceso...
-![Desarrollador de software en proceso...]
+
 
 
 
