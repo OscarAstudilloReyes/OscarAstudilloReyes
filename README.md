@@ -1,4 +1,4 @@
-### Hola soy Oscar 👋
+### Hola soy Oscar 💻
 
 
 **OscarAstudilloReyes/OscarAstudilloReyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
