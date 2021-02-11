@@ -1,15 +1,15 @@
 ###  Hola 👋 soy Oscar
 
 #### Desarrollador de software en proceso...
-![](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  width="400" height="300">
 
 
 
 
 Estudiante en la Tecnología en Análisis y Desarrollo de Sistemas de Información.
 
- -🤹🏻 HABILIDADES : JAVA / C# / PYTHON / JS / HTML / CSS/ GIT / SQL 
+-🤹🏻 HABILIDADES : JAVA / C# / PYTHON / JS / HTML / CSS/ GIT / SQL 
 
 - 💻 Actualmente estoy trabajandoen mi proyecto final 
 - 💡  Actualmente estoy aprendiendo  Frameworks como : LARABEL , BOOSTRAP , NODE.JS 
