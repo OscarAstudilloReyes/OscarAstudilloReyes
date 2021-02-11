@@ -6,8 +6,8 @@ Estudiante en la Tecnología en Análisis y Desarrollo de Sistemas de Informaci�
 
 Skills: JAVA/C#/PYTHON/ JS / HTML / CSS/GIT
 
-- 🔭 I’m currently working on en mi proyecto final 
-- 🌱 I’m currently learning Frameworks como :LARABEL , BOOSTRAP , NODE.JS 
+- 💻 I’m currently working on en mi proyecto final 
+- 💡 I’m currently learning Frameworks como :LARABEL , BOOSTRAP , NODE.JS 
 - 📫 How to reach me: Atraves de mis redes que estaran abajo :D 
 
 
