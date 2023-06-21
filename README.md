@@ -9,10 +9,10 @@
 
 Estudiante en la Tecnología en Análisis y Desarrollo de Sistemas de Información.
 
-- 🤹🏻 HABILIDADES : JAVA / C# / PYTHON / JS / HTML / CSS/ GIT / SQL 
+- 🤹🏻 HABILIDADES : JAVA / PHP/ C# / PYTHON / JS / HTML / CSS/ GIT / SQL / MYSQL/ POSTGRESQL / BOOSTRAP / JQUERY
 
-- 💻 Actualmente estoy trabajandoen mi proyecto final 
-- 💡  Actualmente estoy aprendiendo  Frameworks como : LARABEL , BOOSTRAP , NODE.JS 
+- 💻 Actualmente estoy trabajando como desarrollador de sotftware
+- 💡  Actualmente estoy aprendiendo  Frameworks como : LARABEL, NODE.JS 
 - 📫 Cómo contactarme: Atraves de mis redes que estaran abajo ↙️
 
 
