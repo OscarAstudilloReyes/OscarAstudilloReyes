@@ -12,7 +12,7 @@ Tecnologo en Análisis y Desarrollo de Sistemas de Información, ingeniero de si
 - 🤹🏻 HABILIDADES : JAVA / PHP/ C# / PYTHON / JS / HTML / CSS/ GIT / SQL / MYSQL/ POSTGRESQL / BOOSTRAP / JQUERY
 
 - 💻 Actualmente estoy trabajando como desarrollador de software
-- 💡  Actualmente estoy aprendiendo  Frameworks como : LARABEL, NODE.JS 
+- 💡  Actualmente estoy aprendiendo  Frameworks como : LARAVEL, NODE.JS 
 - 📫 Cómo contactarme: Atraves de mis redes que estaran abajo ↙️
 
 
